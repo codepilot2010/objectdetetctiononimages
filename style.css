@@ -7,3 +7,35 @@ a
     border-radius: 25px !important;
     background-color: royalblue;
 }
+canvas
+{
+    box-shadow: 5px 5px 5px royalblue;
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+}
+.font
+{
+    font-size:47px !important;
+    font-family: 'Yuji Mai', serif;
+}
+.position
+{
+    float: right;
+    margin-right: 20px;
+    border-radius: 17px;
+    background: royalblue;
+    color: #34ebb1;
+    width: 100px;
+    height: 70px;
+    font-size:30px;
+    font-family: 'Yuji Mai', serif;
+}
+.span
+{
+    color: royalblue;
+    width: 100px;
+    height: 70px;
+    font-size:30px;
+    font-family: 'Yuji Mai', serif;
+}
